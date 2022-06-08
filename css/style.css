@@ -200,7 +200,7 @@ color: var(--half-txt)
   padding-top: 200px;
   padding-bottom: 200px;
   background-color: var(--dark-fons);
-  background-image:linear-gradient(to right, rgba(47,48,58,0.4),rgba(47,48,58,0.4)), url(../images/Imgteam.jpg);
+  background-image:linear-gradient(to right, rgba(47,48,58,0.4),rgba(47,48,58,0.4)), url(../images/imgteam.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
