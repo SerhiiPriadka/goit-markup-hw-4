@@ -602,9 +602,9 @@ border-color: var(--second-cl);
 
 .project-footer {
   padding-top: 20px;
-  padding-bottom: 19px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 24px;
+  padding-left: 24px;
   border-left: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
