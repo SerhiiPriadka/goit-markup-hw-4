@@ -586,6 +586,9 @@ border-color: var(--second-cl);
   margin: 15px;
 }
 
+.project-link{
+  display: block;
+}
 
 .project-link:hover ,
 .project-link:focus {
